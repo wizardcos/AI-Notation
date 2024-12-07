@@ -27,11 +27,6 @@ function Sidebar() {
     </SheetHeader>
   </SheetContent>
 </Sheet>
-
-
-
-
-
         <div className="hidden md: inline">
     <NewDocumentButton />
     </div>

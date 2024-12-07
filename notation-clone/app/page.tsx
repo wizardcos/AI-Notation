@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div className="">
       <h1> building AI Notation Clone </h1>
-      <Button>click me </Button>
+      <Button>build new </Button>
     </div>
   );
 }
